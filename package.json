@@ -7,7 +7,8 @@
     "node": ">=12"
   },
   "files": [
-    "tsconfig.json"
+    "tsconfig.json",
+    "npm"
   ],
   "keywords": [
     "tsconfig",
