@@ -1,0 +1,20 @@
+{
+  "name": "@yosgo/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared for yosgo opensource.",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "license": "MIT"
+}
